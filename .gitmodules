@@ -1,0 +1,4 @@
+[submodule "configs"]
+	path = configs
+	url = /Users/nexusninja/Development/spring-projects/SocialMediaClone/config-server/configs
+	branch = master
